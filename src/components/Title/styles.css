@@ -1,0 +1,8 @@
+@import "../../App.css";
+
+.borderTitle {
+  border: 2px solid var(--mainBorderColor);
+  text-transform: uppercase;
+  height: 100px;
+  background: #fff;
+}

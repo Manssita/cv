@@ -1,0 +1,11 @@
+@import "../../../App.css";
+
+.picto {
+  background: var(--mainBorderColor);
+  width: 35px;
+  height: 35px;
+  display: block;
+  padding-top: 6px;
+  border-radius: 20px;
+  margin: 0 auto;
+}

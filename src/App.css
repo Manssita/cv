@@ -1,0 +1,42 @@
+:root {
+  --mainBorderColor: #ffc300;
+  --mainTextColor: #5a6768;
+}
+
+body {
+  color: var(--mainTextColor);
+  font-family: "Roboto", sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.space {
+  padding: 40px;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+h2 {
+  font-size: 16px;
+  margin-top: 40px;
+}
+
+h3 {
+  font-size: 14px;
+  font-weight: 700;
+}
+p {
+  font-size: 14px;
+}
+a {
+  text-decoration: none;
+  color: var(--mainTextColor);
+}
+a:hover {
+  color: var(--mainBorderColor);
+}
